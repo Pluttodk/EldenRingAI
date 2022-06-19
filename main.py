@@ -19,7 +19,6 @@ The program will work the following way:
 
 import cv2, numpy as np
 import pydirectinput
-from pywinauto import keyboard
 
 def draw_introduction(frame):
     """
